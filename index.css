@@ -1,0 +1,22 @@
+/* In your global CSS file (e.g., index.css) */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Base Dark Theme */
+    --bg-dark: 17, 24, 39; /* gray-900 */
+    --bg-darker: 3, 7, 18; /* gray-950 */
+    --border-dark: 55, 65, 81; /* gray-700 */
+    --text-light: 209, 213, 219; /* gray-300 */
+    --text-lighter: 243, 244, 246; /* gray-100 */
+
+    /* Optional Theme Colors (as RGB) */
+    --mental-primary-rgb: 34, 211, 238;  /* cyan-400 */
+    --mental-secondary-rgb: 59, 130, 246; /* blue-500 */
+    --technical-primary-rgb: 168, 85, 247; /* purple-500 */
+    --technical-secondary-rgb: 99, 102, 241; /* indigo-500 */
+  }
+}
+/* Add any custom animations if needed */
