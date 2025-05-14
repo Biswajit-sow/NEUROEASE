@@ -114,7 +114,7 @@ Unlike generic AI bots, NeuroEase uses expert-restricted LLM responses. Each LLM
 
 ## 📥 Getting Started
 
-### Run Backend:
+### Run Backend and frontend :
 ```bash
 cd server
 npm install
