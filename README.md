@@ -97,7 +97,10 @@ NeuroEase/
 ## 📸 Visual Preview
 
 > Flowchart: How NeuroEase guides you  
-![NeuroEase Flowchart](C:\Users\Biswajit\Pictures\Screenshots\Screenshot (62).png)
+![NeuroEase Flowchart]
+<h3>🖼️ UI Preview</h3>
+<img src="C:\Users\Biswajit\Pictures\Screenshots\Screenshot (62).png" alt="NeuroEase Screenshot" width="600"/>
+
 
 ---
 
